@@ -1,0 +1,4 @@
+[deps]
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+QuEST = "2f8c4c1a-2c62-410c-b829-98d6ce53c0c2"
+VeriQuEST = "3aa2c528-5caf-4a2e-b044-409d1cbc6a28"
